@@ -5,9 +5,9 @@ from datetime import datetime
 def send_emails(message):
     port = 465  # For SSL
     password = "********"
-    sender_email = "gimel1987dev@gmail.com"
-    receiver_email1 = "amitroth@gmail.com"
-    receiver_email2 = "itayelia45@gmail.com"
+    sender_email = "---"
+    receiver_email1 = "---"
+    receiver_email2 = "---"
 
 
     # Create a secure SSL context
